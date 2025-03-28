@@ -1,7 +1,6 @@
 # Andrés Castaño - Desarrollador Fullstack 🚀
 
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=felipyan19)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=felipyan19&show_icons=true&theme=transparent&rank_icon=github) 
 
 ## Sobre mí 👨‍💻
 
@@ -69,8 +68,6 @@ Estas son algunas de las herramientas que uso frecuentemente en mis proyectos:
   ![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-blue?style=flat&logo=google-cloud)
 
 ## Estadísticas en GitHub 📊
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=felipyan19&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felipyan19&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 

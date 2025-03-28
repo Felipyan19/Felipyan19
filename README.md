@@ -1,8 +1,7 @@
 # Andrés Castaño - Desarrollador Fullstack 🚀
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=felipyan19&show_icons=true&theme=transparent&rank_icon=github) 
-
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=felipyan19)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=felipyan19&show_icons=true&theme=transparent&rank_icon=github) 
 
 ## Sobre mí 👨‍💻
 

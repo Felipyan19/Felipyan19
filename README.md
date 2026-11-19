@@ -1,103 +1,208 @@
-<div align="center">
+<!-- Encabezado -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1220,55:1F4FA8,100:2F81F7&height=210&section=header&text=Andr%C3%A9s%20Casta%C3%B1o&fontSize=52&fontColor=FFFFFF&fontAlignY=36&animation=fadeIn&desc=Fullstack%20Developer%20%C2%B7%20Producto%2C%20integraciones%20y%20automatizaci%C3%B3n&descSize=17&descAlignY=58" alt="Andrés Castaño — Fullstack Developer" width="100%" />
+</p>
 
-# Hola, soy Andrés Castaño 👋
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3200&pause=900&color=2F81F7&center=true&vCenter=true&width=640&lines=Construyo+backoffices+que+mueven+la+operaci%C3%B3n;Next.js+%C2%B7+NestJS+%C2%B7+PostgreSQL+%C2%B7+Go;Integraciones%2C+webhooks+y+flujos+con+n8n;OCR%2C+agentes+de+IA+y+microservicios+en+Python" alt="Escribiendo: lo que hago" /></a>
+</p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2F81F7&center=true&vCenter=true&width=700&lines=Fullstack+Developer+%40+Motai;Next.js+%7C+NestJS+%7C+PostgreSQL+%7C+n8n;Productos%2C+integraciones+y+automatizaci%C3%B3n)](https://git.io/typing-svg)
+<p align="center">
+  <a href="https://www.linkedin.com/in/andres-felipe-casta%C3%B1o-gomez"><img src="https://img.shields.io/badge/LinkedIn-Conectemos-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:felipyan199@gmail.com"><img src="https://img.shields.io/badge/Email-Escr%C3%ADbeme-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+  <img src="https://img.shields.io/badge/Bogot%C3%A1-Colombia-2F81F7?style=flat-square&logo=googlemaps&logoColor=white" alt="Bogotá, Colombia" />
+  <img src="https://img.shields.io/badge/Abierto%20a-colaborar-2EA043?style=flat-square" alt="Abierto a colaborar" />
+</p>
 
-Desarrollo productos web, APIs e integraciones que convierten operaciones complejas en flujos simples y confiables.
+<br />
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectemos-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andres-felipe-casta%C3%B1o-gomez)
-[![Email](https://img.shields.io/badge/Email-Escríbeme-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:felipyan199@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Felipyan19-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Felipyan19)
+## 👋 Sobre mí
 
-</div>
+```ts
+const andres = {
+  rol: "Fullstack Developer @ Motai",
+  ubicacion: "Bogotá, Colombia",
+  construyo: ["productos web", "APIs", "integraciones", "automatización con IA"],
+  stack: {
+    front: ["Next.js", "React", "TypeScript", "Tailwind"],
+    back:  ["NestJS", "FastAPI", "Go", "PostgreSQL"],
+    ia:    ["n8n", "OCR", "LLMs", "RAG"],
+  },
+  enfoque: "Sistemas mantenibles para necesidades reales del negocio",
+};
+```
 
-## Sobre mí
+## 🧭 Lo que hago
 
-- 🏍️ Actualmente trabajo como **Fullstack Developer en Motai**, desarrollando módulos operativos de principio a fin.
-- 🧠 He participado en productos empresariales de **IDAE**, especialmente en las plataformas SAFE y SAMMAI.
-- ⚡ Colaboro habitualmente con **Niawi** en automatizaciones con n8n, OCR, agentes de IA y microservicios en Python.
-- 🧩 Me interesa construir sistemas mantenibles con necesidades reales del negocio.
-- 📍 Bogotá, Colombia.
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <h3>🧩 Producto</h3>
+      Módulos operativos y herramientas internas de principio a fin: datos, permisos, interfaz y pruebas.
+      <br /><br />
+      <code>Next.js</code> <code>React</code> <code>NestJS</code> <code>PostgreSQL</code>
+    </td>
+    <td width="33%" valign="top">
+      <h3>🔌 Integraciones</h3>
+      Conexión con servicios externos, APIs y webhooks seguros que sincronizan documentos y estados.
+      <br /><br />
+      <code>REST</code> <code>Webhooks</code> <code>JWT</code> <code>Cloud Storage</code>
+    </td>
+    <td width="33%" valign="top">
+      <h3>⚡ Automatización e IA</h3>
+      Flujos que procesan, validan y transforman información con visión artificial y agentes.
+      <br /><br />
+      <code>n8n</code> <code>Python</code> <code>OCR</code> <code>LLMs</code>
+    </td>
+  </tr>
+</table>
 
-## Experiencia reciente
+## 🛠️ Stack
 
-### 🏍️ Motai — Fullstack Developer · Actualidad
+<table>
+  <tr>
+    <td align="right"><b>Frontend</b></td>
+    <td><img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,redux,astro&theme=dark" alt="TypeScript, JavaScript, React, Next.js, Tailwind, Redux, Astro" /></td>
+  </tr>
+  <tr>
+    <td align="right"><b>Backend</b></td>
+    <td><img src="https://skillicons.dev/icons?i=nodejs,nestjs,python,fastapi,go&theme=dark" alt="Node.js, NestJS, Python, FastAPI, Go" /></td>
+  </tr>
+  <tr>
+    <td align="right"><b>Datos</b></td>
+    <td><img src="https://skillicons.dev/icons?i=postgres,mongodb,sqlite,prisma&theme=dark" alt="PostgreSQL, MongoDB, SQLite, Prisma" /></td>
+  </tr>
+  <tr>
+    <td align="right"><b>Infra y CI/CD</b></td>
+    <td><img src="https://skillicons.dev/icons?i=docker,nginx,aws,vercel,githubactions,git&theme=dark" alt="Docker, Nginx, AWS, Vercel, GitHub Actions, Git" /></td>
+  </tr>
+  <tr>
+    <td align="right"><b>Pruebas</b></td>
+    <td><img src="https://skillicons.dev/icons?i=jest,vitest,cypress&theme=dark" alt="Jest, Vitest, Cypress" /></td>
+  </tr>
+  <tr>
+    <td align="right"><b>Automatización</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white" alt="n8n" />
+      <img src="https://img.shields.io/badge/TypeORM-FE0803?style=flat-square&logo=typeorm&logoColor=white" alt="TypeORM" />
+      <img src="https://img.shields.io/badge/OCR-555?style=flat-square" alt="OCR" />
+      <img src="https://img.shields.io/badge/LLMs%20%26%20RAG-8250DF?style=flat-square" alt="LLMs y RAG" />
+    </td>
+  </tr>
+</table>
 
-Trabajo sobre un backoffice que centraliza operaciones de inventario, contratos, traspasos, cotización, validaciones y gestión de usuarios.
+## 🚀 Proyectos destacados
 
-- Desarrollo frontend con **Next.js 15, React 19, TypeScript y Tailwind CSS**.
-- Construcción de APIs y lógica de negocio con **NestJS, TypeORM y PostgreSQL**.
-- Implementación de permisos, migraciones, pruebas automatizadas y procesos de CI/CD.
-- Integraciones con **Certicámara, ZapSign/Truora, Verifik, DataCrédito, Palenca, Respond.io** y almacenamiento en la nube.
-- Desarrollo de webhooks seguros para intercambiar documentos y sincronizar estados con **n8n**.
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>💸 <a href="https://github.com/Felipyan19/RutaSaldo">RutaSaldo</a></h3>
+      PWA de finanzas personales para Latinoamérica: muestra cuánto dinero tienes disponible de verdad entre bancos, billeteras, tarjetas y deudas, sin contar dos veces las transferencias.
+      <br /><br />
+      <code>TypeScript</code> <code>PostgreSQL</code> <code>PWA</code>
+      <br /><br />
+      <a href="https://ruta-saldo.vercel.app">Demo</a> · <a href="https://github.com/Felipyan19/RutaSaldo">Código</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🪝 <a href="https://github.com/Felipyan19/webhook-inspector-go">Hookscope</a></h3>
+      Inspector de webhooks autohospedado: crea endpoints, captura peticiones en tiempo real, revisa su contenido y las reenvía a tu aplicación.
+      <br /><br />
+      <code>Go</code> <code>SQLite</code> <code>Docker</code>
+      <br /><br />
+      <a href="https://github.com/Felipyan19/webhook-inspector-go">Código</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🔐 <a href="https://github.com/Felipyan19/tunneldesk">TunnelDesk</a></h3>
+      App para Windows que gestiona varios perfiles de OpenVPN desde un panel visual o la terminal, con credenciales cifradas.
+      <br /><br />
+      <code>Go</code> <code>CLI</code> <code>Windows DPAPI</code>
+      <br /><br />
+      <a href="https://github.com/Felipyan19/tunneldesk">Código</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🎨 <a href="https://github.com/Felipyan19/peleti">Peleti</a></h3>
+      Vitrina web de artesanías en resina con galería filtrable, animaciones, contacto, pruebas y CI/CD.
+      <br /><br />
+      <code>Next.js</code> <code>Prisma</code> <code>Jest</code>
+      <br /><br />
+      <a href="https://peleti.vercel.app">Demo</a> · <a href="https://github.com/Felipyan19/peleti">Código</a>
+    </td>
+  </tr>
+</table>
 
-### 🧠 IDAE — Plataformas web y mobile
+<details>
+  <summary><b>Más proyectos</b></summary>
+  <br />
 
-Participé en la evolución de **SAFE** y **SAMMAI**, tanto en plataformas web como en su ecosistema móvil.
+| Proyecto | Qué hace | Tecnologías |
+| --- | --- | --- |
+| 📦 [HTML Export Service](https://github.com/Felipyan19/Amex-Export) | Convierte campañas HTML en paquetes ZIP, procesa imágenes y valida con pruebas de regresión. | Python · FastAPI |
+| 📰 [PDF to HTML Service](https://github.com/Felipyan19/pdf-to-html-service) | Microservicio para un flujo de n8n que extrae, renderiza y compara newsletters en PDF. | Python · Flask · Docker |
+| 📈 [SatScale](https://github.com/Felipyan19/sat-scale-landing) | Landing bilingüe orientada a conversión, como sitio estático o contenedor Nginx. [Demo](https://sat-scale-landing.vercel.app) | Astro · Docker · Nginx |
+| 💰 [FinanzApp](https://github.com/Felipyan19/Finanzapp) | API de cuentas, transacciones, presupuestos, metas y movimientos recurrentes. | FastAPI · PostgreSQL · Alembic |
+| 🏋️ [Virtual Hero](https://github.com/Felipyan19/Virtual-hero) | App móvil de fitness gamificada. | React Native · Expo · SQLite |
+
+</details>
+
+## 💼 Experiencia
+
+<details open>
+  <summary><b>🏍️ Motai</b> — Fullstack Developer · <i>Actualidad</i></summary>
+  <br />
+
+Backoffice que centraliza inventario, contratos, traspasos, cotización, validaciones y usuarios.
+
+- Frontend con **Next.js 15, React 19, TypeScript y Tailwind CSS**.
+- APIs y lógica de negocio con **NestJS, TypeORM y PostgreSQL**.
+- Permisos, migraciones, pruebas automatizadas y CI/CD.
+- Integraciones con **Certicámara, ZapSign/Truora, Verifik, DataCrédito, Palenca y Respond.io**.
+- Webhooks seguros para intercambiar documentos y sincronizar estados con **n8n**.
+
+</details>
+
+<details>
+  <summary><b>🧠 IDAE</b> — Plataformas SAFE y SAMMAI · <i>Web y móvil</i></summary>
+  <br />
 
 - Arquitectura frontend con **Next.js, React y TypeScript**.
-- Autenticación, autorización, formularios dinámicos, reportes técnicos y exportación a Excel.
-- Manejo de estado y datos con **Redux Toolkit, TanStack Query y servicios API**.
-- Componentes reutilizables, interfaces responsivas y pruebas con **Jest y Cypress**.
-- Integración de un asistente conversacional conectado a **n8n**, con renderizado seguro de Markdown y manejo de disponibilidad.
-- Aportes a la aplicación móvil con funcionamiento **offline**, cola local de datos para sincronización diferida y optimización del procesamiento y carga de imágenes.
+- Autenticación, autorización, formularios dinámicos, reportes y exportación a Excel.
+- Estado y datos con **Redux Toolkit y TanStack Query**; pruebas con **Jest y Cypress**.
+- Asistente conversacional conectado a **n8n** con renderizado seguro de Markdown.
+- App móvil **offline** con cola local para sincronización diferida y carga optimizada de imágenes.
 
-### ⚡ Niawi — Colaboración en automatización e IA
+</details>
 
-Colaboro habitualmente con **Niawi** desarrollando flujos en **n8n** que conectan automatización, visión artificial y servicios especializados:
+<details>
+  <summary><b>⚡ Niawi</b> — Automatización e IA · <i>Colaboración</i></summary>
+  <br />
 
-- Procesamiento mediante **OCR** de facturas y otros documentos empresariales.
-- Validación visual agéntica con modelos multimodales para detectar diferencias e inconsistencias.
-- Flujos con agentes de IA, RAG, webhooks e integración de distintos proveedores.
-- Microservicios en **Python** para extracción, transformación y validación de documentos e imágenes.
-- Generación automatizada de contenido y emails HTML a partir de componentes reutilizables.
+- **OCR** de facturas y documentos empresariales.
+- Validación visual agéntica con modelos multimodales para detectar inconsistencias.
+- Agentes de IA, RAG, webhooks e integración de varios proveedores en **n8n**.
+- Microservicios en **Python** para extraer, transformar y validar documentos e imágenes.
+- Emails HTML generados automáticamente desde componentes reutilizables.
 
-## Stack tecnológico
+</details>
 
-<div align="center">
+## 📊 Actividad
 
-[![My Skills](https://skillicons.dev/icons?i=ts,js,react,nextjs,nestjs,nodejs,python,fastapi,go,postgres,mongodb,docker,git,githubactions,aws,vercel&perline=8)](https://skillicons.dev)
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Felipyan19&theme=github-dark-blue&hide_border=true&background=00000000&ring=2F81F7&fire=2F81F7&currStreakLabel=2F81F7" />
+    <img src="https://streak-stats.demolab.com?user=Felipyan19&theme=default&hide_border=true&background=00000000&ring=2F81F7&fire=2F81F7&currStreakLabel=2F81F7" alt="Racha de contribuciones de Felipyan19" />
+  </picture>
+</p>
 
-![n8n](https://img.shields.io/badge/n8n-Automation-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
-![TypeORM](https://img.shields.io/badge/TypeORM-Data%20Layer-FE0803?style=for-the-badge&logo=typeorm&logoColor=white)
-![Vitest](https://img.shields.io/badge/Vitest-Testing-6E9F18?style=for-the-badge&logo=vitest&logoColor=white)
+<br />
 
-</div>
+<p align="center">
+  <b>¿Construimos algo útil?</b><br />
+  Productos web, APIs, automatización y herramientas internas.<br /><br />
+  <a href="https://www.linkedin.com/in/andres-felipe-casta%C3%B1o-gomez">LinkedIn</a> ·
+  <a href="mailto:felipyan199@gmail.com">Email</a> ·
+  <a href="https://github.com/Felipyan19?tab=repositories">Repositorios</a>
+</p>
 
-## Proyectos destacados
-
-| Proyecto | Descripción | Tecnologías | Enlaces |
-| --- | --- | --- | --- |
-| 🎨 **Peleti** | Aplicación web para exhibir artesanías en resina, con galería filtrable, animaciones, contacto, pruebas y CI/CD. | Next.js, React, TypeScript, Prisma, Jest | [Demo](https://peleti.vercel.app) · [Código](https://github.com/Felipyan19/peleti) |
-| 📈 **SatScale** | Landing bilingüe orientada a conversión, desplegable como sitio estático y contenedor Nginx. | Astro, TypeScript, Docker, Nginx | [Demo](https://sat-scale-landing.vercel.app) · [Código](https://github.com/Felipyan19/sat-scale-landing) |
-| 💰 **FinanzApp** | API para administrar cuentas, transacciones, presupuestos, metas financieras y movimientos recurrentes. | FastAPI, PostgreSQL, SQLAlchemy, Alembic, Docker | [Código](https://github.com/Felipyan19/Finanzapp) |
-| 📦 **HTML Export Service** | Servicio que transforma campañas HTML en paquetes ZIP, detecta perfiles, procesa imágenes y valida resultados con pruebas de regresión. | Python, FastAPI, HTML, Testing | [Código](https://github.com/Felipyan19/Amex-Export) |
-
-### También estoy explorando
-
-[**Virtual Hero**](https://github.com/Felipyan19/Virtual-hero): aplicación móvil de fitness gamificada con React Native, Expo, TypeScript, Zustand y SQLite.
-
-## Mi enfoque
-
-| 🧩 Product Engineering | 🔌 Integraciones | ⚡ Automatización e IA |
-| --- | --- | --- |
-| Desarrollo fullstack de módulos operativos y herramientas internas.<br><br>`Next.js` `React` `NestJS` `PostgreSQL` | Integraciones con servicios externos, APIs y webhooks seguros.<br><br>`REST APIs` `JWT` `Webhooks` `Cloud Storage` | Flujos inteligentes para procesar, validar y transformar información.<br><br>`n8n` `Python` `FastAPI` `OCR` `LLMs` |
-
-<div align="center">
-
-### Código orientado a necesidades reales del negocio
-
-Productos mantenibles · Integraciones confiables · Automatización inteligente
-
-</div>
-
-<div align="center">
-
-### ¿Construimos algo útil?
-
-Estoy abierto a colaborar en productos web, APIs, automatización y herramientas internas.
-
-[LinkedIn](https://www.linkedin.com/in/andres-felipe-casta%C3%B1o-gomez) · [Email](mailto:felipyan199@gmail.com) · [Repositorios](https://github.com/Felipyan19?tab=repositories)
-
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1220,55:1F4FA8,100:2F81F7&height=110&section=footer" alt="" width="100%" />

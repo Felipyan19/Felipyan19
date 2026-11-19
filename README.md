@@ -184,12 +184,12 @@ const andres = {
       <a href="https://github.com/Felipyan19/tunneldesk">Código</a>
     </td>
     <td width="50%" valign="top">
-      <h3>🔥 <a href="https://igniteapps.co">Ignite Apps</a></h3>
-      Sitio de Ignite Apps, empresa que automatiza la atención por WhatsApp con IA y construye software a medida. Landing hecha en Astro, con páginas legales y despliegue en contenedor.
+      <h3>🔥 <a href="https://github.com/Felipyan19/ignite_landing">Ignite Landing</a></h3>
+      Nueva landing de Ignite Apps: agentes de WhatsApp con IA y software a medida para empresas. Hecha en Astro con islas de React, animaciones con GSAP y scroll suave con Lenis.
       <br /><br />
-      <code>Astro</code> <code>TypeScript</code> <code>SCSS</code> <code>Docker</code>
+      <code>Astro</code> <code>React</code> <code>Tailwind</code> <code>GSAP</code>
       <br /><br />
-      <a href="https://igniteapps.co">Sitio</a>
+      <a href="https://ignite-landing-sage.vercel.app">Demo</a> · <a href="https://github.com/Felipyan19/ignite_landing">Código</a>
     </td>
   </tr>
 </table>

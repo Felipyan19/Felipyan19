@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3200&pause=900&color=2F81F7&center=true&vCenter=true&width=640&lines=Construyo+backoffices+que+mueven+la+operaci%C3%B3n;Next.js+%C2%B7+NestJS+%C2%B7+PostgreSQL+%C2%B7+Go;Integraciones%2C+webhooks+y+flujos+con+n8n;OCR%2C+agentes+de+IA+y+microservicios+en+Python" alt="Escribiendo: lo que hago" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3200&pause=900&color=2F81F7&center=true&vCenter=true&width=640&lines=Construyo+backoffices+que+mueven+la+operaci%C3%B3n;Next.js+%C2%B7+NestJS+%C2%B7+PostgreSQL+%C2%B7+Go;Integraciones%2C+webhooks+y+flujos+con+n8n;OCR%2C+agentes+de+IA+y+microservicios+en+Python;Ahora%3A+DevOps%2C+datos+en+streaming+y+Flutter" alt="Escribiendo: lo que hago" /></a>
 </p>
 
 <p align="center">
@@ -26,8 +26,10 @@ const andres = {
   stack: {
     front: ["Next.js", "React", "TypeScript", "Tailwind"],
     back:  ["NestJS", "FastAPI", "Go", "PostgreSQL"],
+    infra: ["Docker", "Terraform", "AWS", "Woodpecker CI"],
     ia:    ["n8n", "OCR", "LLMs", "RAG"],
   },
+  aprendiendo: ["DevOps y plataforma", "datos en streaming", "Flutter + IoT", "arquitectura de software"],
   enfoque: "Sistemas mantenibles para necesidades reales del negocio",
 };
 ```
@@ -57,28 +59,74 @@ const andres = {
   </tr>
 </table>
 
+## 🌱 Lo nuevo que estoy aprendiendo
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🏗️ Plataforma y DevOps</h3>
+      Construyo un panel interno que gobierna permisos, aprobaciones y despliegues: CI propia, imágenes identificadas por digest, infraestructura como código y auditoría de cada decisión.
+      <br /><br />
+      <code>Terraform</code> <code>AWS</code> <code>Woodpecker CI</code> <code>Komodo</code> <code>Docker</code>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🌊 Ingeniería de datos</h3>
+      Pipelines batch y de streaming idempotentes, con reporte de calidad de datos, custodia de información personal y pruebas de integración contra la base.
+      <br /><br />
+      <code>Python</code> <code>Kafka / Redpanda</code> <code>PostgreSQL</code>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>📱 Móvil e IoT</h3>
+      Apps con Flutter y control de dispositivos por la red local, sin nube: capturo el tráfico con Wireshark e implemento los protocolos miIO (UDP) y Tuya (TCP) en Dart.
+      <br /><br />
+      <code>Flutter</code> <code>Dart</code> <code>Wireshark</code> <code>miIO</code> <code>Tuya</code>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🧱 Arquitectura de software</h3>
+      Arquitectura hexagonal con puertos y adaptadores, colas de trabajo durables sobre PostgreSQL y estudio formal de fundamentos de arquitectura.
+      <br /><br />
+      <code>Hexagonal</code> <code>SOLID</code> <code>Eventos</code> <code>Monorepo</code>
+    </td>
+  </tr>
+</table>
+
+<p>
+  <b>También nuevo en mi caja de herramientas:</b>
+  <img src="https://img.shields.io/badge/Payload%20CMS-000000?style=flat-square&logo=payloadcms&logoColor=white" alt="Payload CMS" />
+  <img src="https://img.shields.io/badge/Drizzle%20ORM-C5F74F?style=flat-square&logo=drizzle&logoColor=black" alt="Drizzle ORM" />
+  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square" alt="Playwright" />
+  <img src="https://img.shields.io/badge/Better%20Auth-111111?style=flat-square&logo=betterauth&logoColor=white" alt="Better Auth" />
+  <img src="https://img.shields.io/badge/Go%20%2B%20Gin-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go y Gin" />
+</p>
+
 ## 🛠️ Stack
 
 <table>
   <tr>
     <td align="right"><b>Frontend</b></td>
-    <td><img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,redux,astro&theme=dark" alt="TypeScript, JavaScript, React, Next.js, Tailwind, Redux, Astro" /></td>
+    <td><img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,vite,tailwind,redux,astro&theme=dark" alt="TypeScript, JavaScript, React, Next.js, Vite, Tailwind, Redux, Astro" /></td>
   </tr>
   <tr>
     <td align="right"><b>Backend</b></td>
-    <td><img src="https://skillicons.dev/icons?i=nodejs,nestjs,python,fastapi,go&theme=dark" alt="Node.js, NestJS, Python, FastAPI, Go" /></td>
+    <td><img src="https://skillicons.dev/icons?i=nodejs,nestjs,python,fastapi,flask,go&theme=dark" alt="Node.js, NestJS, Python, FastAPI, Flask, Go" /></td>
+  </tr>
+  <tr>
+    <td align="right"><b>Móvil</b></td>
+    <td><img src="https://skillicons.dev/icons?i=flutter,dart&theme=dark" alt="Flutter, Dart" /></td>
   </tr>
   <tr>
     <td align="right"><b>Datos</b></td>
-    <td><img src="https://skillicons.dev/icons?i=postgres,mongodb,sqlite,prisma&theme=dark" alt="PostgreSQL, MongoDB, SQLite, Prisma" /></td>
+    <td><img src="https://skillicons.dev/icons?i=postgres,mongodb,sqlite,prisma,kafka&theme=dark" alt="PostgreSQL, MongoDB, SQLite, Prisma, Kafka" /></td>
   </tr>
   <tr>
     <td align="right"><b>Infra y CI/CD</b></td>
-    <td><img src="https://skillicons.dev/icons?i=docker,nginx,aws,vercel,githubactions,git&theme=dark" alt="Docker, Nginx, AWS, Vercel, GitHub Actions, Git" /></td>
+    <td><img src="https://skillicons.dev/icons?i=docker,terraform,aws,nginx,vercel,githubactions,git&theme=dark" alt="Docker, Terraform, AWS, Nginx, Vercel, GitHub Actions, Git" /></td>
   </tr>
   <tr>
     <td align="right"><b>Pruebas</b></td>
-    <td><img src="https://skillicons.dev/icons?i=jest,vitest,cypress&theme=dark" alt="Jest, Vitest, Cypress" /></td>
+    <td><img src="https://skillicons.dev/icons?i=jest,vitest,cypress,playwright&theme=dark" alt="Jest, Vitest, Cypress, Playwright" /></td>
   </tr>
   <tr>
     <td align="right"><b>Automatización</b></td>
@@ -110,6 +158,20 @@ const andres = {
       <code>Go</code> <code>SQLite</code> <code>Docker</code>
       <br /><br />
       <a href="https://github.com/Felipyan19/webhook-inspector-go">Código</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🌬️ Aura <sup>🔒 privado</sup></h3>
+      App para controlar el purificador de aire y las luces de casa por la red local, sin depender de la nube. Incluye una librería de protocolos en Dart y simuladores para desarrollar sin el hardware.
+      <br /><br />
+      <code>Flutter</code> <code>Dart</code> <code>Python</code> <code>IoT</code>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🌊 Plataforma de datos <sup>🔒 privado</sup></h3>
+      Pipeline batch y de streaming que convierte archivos crudos de consumo en un modelo confiable en PostgreSQL: ingesta idempotente, calidad de datos, protección de datos personales y 165 pruebas.
+      <br /><br />
+      <code>Python</code> <code>Redpanda</code> <code>PostgreSQL</code> <code>Terraform</code>
     </td>
   </tr>
   <tr>
@@ -157,8 +219,20 @@ Backoffice que centraliza inventario, contratos, traspasos, cotización, validac
 - Frontend con **Next.js 15, React 19, TypeScript y Tailwind CSS**.
 - APIs y lógica de negocio con **NestJS, TypeORM y PostgreSQL**.
 - Permisos, migraciones, pruebas automatizadas y CI/CD.
+- Panel interno de DevOps: permisos por servicio y entorno, aprobaciones y despliegues auditados, con **Woodpecker CI, Terraform, AWS y Komodo**.
+- Sitio de contenidos con **Payload CMS** y Next.js, con pruebas de extremo a extremo en **Playwright**.
 - Integraciones con **Certicámara, ZapSign/Truora, Verifik, DataCrédito, Palenca y Respond.io**.
 - Webhooks seguros para intercambiar documentos y sincronizar estados con **n8n**.
+
+</details>
+
+<details>
+  <summary><b>🔥 Ignite Apps</b> — Productos internos · <i>Colaboración</i></summary>
+  <br />
+
+- Sistema interno que centraliza la información comercial, operativa y estratégica, con **Next.js, Drizzle ORM y PostgreSQL**.
+- CRM con **React, Vite, React Router y TanStack Query**; pruebas con **Vitest y Playwright**.
+- Landing del producto en **Astro**.
 
 </details>
 

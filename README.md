@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3200&pause=900&color=2F81F7&center=true&vCenter=true&width=640&lines=Construyo+sistemas+que+mueven+la+operaci%C3%B3n;Next.js+%C2%B7+NestJS+%C2%B7+PostgreSQL+%C2%B7+Go;Integraciones%2C+webhooks+y+flujos+con+n8n;OCR%2C+agentes+de+IA+y+microservicios+en+Python;Ahora%3A+DevOps%2C+datos+en+streaming+y+Flutter" alt="Escribiendo: lo que hago" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3200&pause=900&color=2F81F7&center=true&vCenter=true&width=640&lines=Construyo+backoffices+que+mueven+la+operaci%C3%B3n;Next.js+%C2%B7+NestJS+%C2%B7+PostgreSQL+%C2%B7+Go;Integraciones%2C+webhooks+y+flujos+con+n8n;OCR%2C+agentes+de+IA+y+microservicios+en+Python;Ahora%3A+DevOps%2C+datos+en+streaming+y+Flutter" alt="Escribiendo: lo que hago" /></a>
 </p>
 
 <p align="center">
@@ -184,12 +184,12 @@ const andres = {
       <a href="https://github.com/Felipyan19/tunneldesk">Código</a>
     </td>
     <td width="50%" valign="top">
-      <h3>🎨 <a href="https://github.com/Felipyan19/peleti">Peleti</a></h3>
-      Vitrina web de artesanías en resina con galería filtrable, animaciones, contacto, pruebas y CI/CD.
+      <h3>🔥 <a href="https://igniteapps.co">Ignite Apps</a></h3>
+      Sitio de Ignite Apps, empresa que automatiza la atención por WhatsApp con IA y construye software a medida. Landing hecha en Astro, con páginas legales y despliegue en contenedor.
       <br /><br />
-      <code>Next.js</code> <code>Prisma</code> <code>Jest</code>
+      <code>Astro</code> <code>TypeScript</code> <code>SCSS</code> <code>Docker</code>
       <br /><br />
-      <a href="https://peleti.vercel.app">Demo</a> · <a href="https://github.com/Felipyan19/peleti">Código</a>
+      <a href="https://igniteapps.co">Sitio</a>
     </td>
   </tr>
 </table>
@@ -200,6 +200,7 @@ const andres = {
 
 | Proyecto | Qué hace | Tecnologías |
 | --- | --- | --- |
+| 🎨 [Peleti](https://github.com/Felipyan19/peleti) | Vitrina web de artesanías en resina con galería filtrable, animaciones y CI/CD. [Demo](https://peleti.vercel.app) | Next.js · Prisma · Jest |
 | 📦 [HTML Export Service](https://github.com/Felipyan19/Amex-Export) | Convierte campañas HTML en paquetes ZIP, procesa imágenes y valida con pruebas de regresión. | Python · FastAPI |
 | 📰 [PDF to HTML Service](https://github.com/Felipyan19/pdf-to-html-service) | Microservicio para un flujo de n8n que extrae, renderiza y compara newsletters en PDF. | Python · Flask · Docker |
 | 📈 [SatScale](https://github.com/Felipyan19/sat-scale-landing) | Landing bilingüe orientada a conversión, como sitio estático o contenedor Nginx. [Demo](https://sat-scale-landing.vercel.app) | Astro · Docker · Nginx |

@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3200&pause=900&color=2F81F7&center=true&vCenter=true&width=640&lines=Construyo+backoffices+que+mueven+la+operaci%C3%B3n;Next.js+%C2%B7+NestJS+%C2%B7+PostgreSQL+%C2%B7+Go;Integraciones%2C+webhooks+y+flujos+con+n8n;OCR%2C+agentes+de+IA+y+microservicios+en+Python;Ahora%3A+DevOps%2C+datos+en+streaming+y+Flutter" alt="Escribiendo: lo que hago" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3200&pause=900&color=2F81F7&center=true&vCenter=true&width=640&lines=Construyo+sistemas+que+mueven+la+operaci%C3%B3n;Next.js+%C2%B7+NestJS+%C2%B7+PostgreSQL+%C2%B7+Go;Integraciones%2C+webhooks+y+flujos+con+n8n;OCR%2C+agentes+de+IA+y+microservicios+en+Python;Ahora%3A+DevOps%2C+datos+en+streaming+y+Flutter" alt="Escribiendo: lo que hago" /></a>
 </p>
 
 <p align="center">
